@@ -1,3 +1,5 @@
+#This is React app that demonstrates how to fetch data from the Omdb api and repserent it.it also uses link to move from page to page. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
